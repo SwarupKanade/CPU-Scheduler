@@ -11,4 +11,4 @@ There are mainly six types of process scheduling algorithm
 - Round Robin Scheduling
 
 ## Live Demo
-- [CPU Scheduling](https://swarupkanade.github.io/CPU-Scheduler)
+- [CPU Scheduling](https://swarupkanade.github.io/CPU-Scheduler/)
