@@ -12,3 +12,11 @@ There are mainly five types of process scheduling algorithms
 
 ## Live Demo
 - [CPU Scheduling](https://swarupkanade.github.io/CPU-Scheduler/)
+
+## Screenshots
+<img src="Output/1.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/2.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/3.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/4.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/5.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/6.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
