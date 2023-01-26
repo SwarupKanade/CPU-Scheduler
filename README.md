@@ -10,7 +10,7 @@ There are mainly five types of process scheduling algorithms
 - Priority Scheduling
 - Round Robin Scheduling
 
-## Live Demo
+## Live Video
 - [CPU Scheduling](https://swarupkanade.github.io/CPU-Scheduler/demo.html)
 
 ## Live Demo
