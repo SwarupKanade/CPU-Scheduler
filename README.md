@@ -16,6 +16,30 @@ There are mainly five types of process scheduling algorithms
 ## Live Demo
 - [CPU Scheduling](https://swarupkanade.github.io/CPU-Scheduler/)
 
+## Azure Services
+<img src="Output/1CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+## Static Web App
+<img src="Output/2CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+<img src="Output/3CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+## Media Services
+<img src="Output/4CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+### Media User
+<img src="Output/5CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+<img src="Output/6CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+### Media Storage
+<img src="Output/7CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+<img src="Output/8CS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
+## Working Demo Video
+<img src="Output/WCS.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
 ## Screenshots
 <img src="Output/1.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 <img src="Output/2.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
